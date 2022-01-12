@@ -1,0 +1,167 @@
+22 16
+
+0 0 Name Baba
+0 1 Operator Is
+0 2 Property You
+
+1 0 Name Wall
+1 1 Operator Is
+1 2 Property Stop
+
+2 0 Decor Wall
+2 1 Decor Wall
+2 2 Decor Wall
+2 3 Decor Wall
+0 3 Decor Wall
+1 3 Decor Wall
+
+6 4 Name Water
+6 5 Operator Is
+6 6 Property Sink
+
+13 9 Name Rock
+14 9 Operator Is
+15 9 Property Push
+
+13 12 Name Flag
+14 12 Operator Is
+15 12 Property Win
+
+
+9 3 Decor Baba
+12 3 Decor Rock
+12 5 Decor Rock
+
+7 1 Decor Wall
+8 1 Decor Wall
+9 1 Decor Wall
+10 1 Decor Wall
+11 1 Decor Wall
+12 1 Decor Wall
+13 1 Decor Wall
+14 1 Decor Wall
+
+7 2 Decor Wall
+8 2 Decor Tile
+9 2 Decor Tile
+10 2 Decor Tile
+11 2 Decor Tile
+12 2 Decor Tile
+13 2 Decor Tile
+14 2 Decor Wall
+
+7 3 Decor Wall
+8 3 Decor Tile
+10 3 Decor Tile
+11 3 Decor Tile
+13 3 Decor Tile
+14 3 Decor Wall
+
+7 4 Decor Wall
+8 4 Decor Tile
+9 4 Decor Tile
+10 4 Decor Tile
+11 4 Decor Tile
+12 4 Decor Tile
+13 4 Decor Tile
+14 4 Decor Wall
+
+7 5 Decor Wall
+8 5 Decor Tile
+9 5 Decor Tile
+10 5 Decor Tile
+11 5 Decor Tile
+13 5 Decor Tile
+14 5 Decor Wall
+
+7 6 Decor Wall
+8 6 Decor Tile
+9 6 Decor Tile
+10 6 Decor Tile
+11 6 Decor Tile
+12 6 Decor Tile
+13 6 Decor Tile
+14 6 Decor Wall
+
+4 7 Decor Wall
+5 7 Decor Wall
+6 7 Decor Wall
+7 7 Decor Wall
+8 7 Decor Water
+9 7 Decor Water
+10 7 Decor Water
+11 7 Decor Wall
+12 7 Decor Wall
+13 7 Decor Wall
+14 7 Decor Wall
+15 7 Decor Wall
+16 7 Decor Wall
+17 7 Decor Wall
+
+4 8 Decor Wall
+11 8 Decor Wall
+17 8 Decor Wall
+
+4 9 Decor Wall
+11 9 Decor Wall
+17 9 Decor Wall
+
+4 10 Decor Wall
+11 10 Decor Wall
+17 10 Decor Wall
+
+4 11 Decor Wall
+9 11 Decor Wall
+17 11 Decor Wall
+
+4 12 Decor Wall
+11 12 Decor Wall
+17 12 Decor Wall
+
+4 13 Decor Wall
+11 13 Decor Wall
+17 13 Decor Wall
+
+4 14 Decor Wall
+5 14 Decor Wall
+6 14 Decor Wall
+7 14 Decor Wall
+8 14 Decor Wall
+9 14 Decor Wall
+10 14 Decor Wall
+11 14 Decor Wall
+12 14 Decor Wall
+13 14 Decor Wall
+14 14 Decor Wall
+15 14 Decor Wall
+16 14 Decor Wall
+17 14 Decor Wall
+
+5 11 Decor Water
+5 12 Decor Water
+5 13 Decor Flag
+6 11 Decor Water
+6 12 Decor Water
+6 13 Decor Water
+7 11 Decor Water
+7 12 Decor Water
+7 13 Decor Water
+
+4 1 Decor Grass
+5 3 Decor Grass
+3 5 Decor Grass
+4 5 Decor Grass
+0 7 Decor Grass
+1 8 Decor Grass
+1 12 Decor Grass
+1 13 Decor Grass
+2 12 Decor Grass
+2 13 Decor Grass
+16 0 Decor Grass
+16 1 Decor Grass
+19 7 Decor Grass
+20 9 Decor Grass
+18 12 Decor Grass
+20 13 Decor Grass
+20 14 Decor Grass
+21 13 Decor Grass

@@ -1,0 +1,83 @@
+24 14
+
+0 0 Name Flag
+1 0 Operator Is
+2 0 Property Win
+
+0 1 Name Baba
+1 1 Operator Is
+2 1 Property You
+
+2 5 Name Rock
+3 5 Operator Is
+4 5 Property Push
+
+5 7 Decor Skull
+5 8 Decor Skull
+5 9 Decor Skull
+4 9 Decor Skull
+3 9 Decor Skull
+3 10 Decor Skull
+3 11 Decor Skull
+3 12 Decor Skull
+3 13 Decor Skull
+
+7 7 Decor Skull
+7 8 Decor Skull
+7 9 Decor Skull
+8 9 Decor Skull
+9 9 Decor Skull
+9 10 Decor Skull
+9 11 Decor Skull
+9 12 Decor Skull
+9 13 Decor Skull
+
+6 8 Decor Rock
+6 9 Decor Rock
+6 10 Decor Rock
+
+6 12 Decor Baba
+
+13 3 Decor Skull
+13 4 Decor Skull
+13 5 Decor Skull
+13 6 Decor Skull
+13 6 Decor Skull
+13 7 Decor Skull
+13 8 Decor Skull
+13 9 Decor Skull
+13 10 Decor Skull
+13 11 Decor Skull
+
+14 3 Decor Skull
+15 3 Decor Skull
+16 3 Decor Skull
+17 3 Decor Skull
+18 3 Decor Skull
+19 3 Decor Skull
+20 3 Decor Skull
+
+14 11 Decor Skull
+15 11 Decor Skull
+16 11 Decor Skull
+17 11 Decor Skull
+18 11 Decor Skull
+19 11 Decor Skull
+20 11 Decor Skull
+
+21 3 Decor Skull
+21 4 Decor Skull
+21 5 Decor Skull
+21 6 Decor Skull
+21 6 Decor Skull
+21 7 Decor Skull
+21 8 Decor Skull
+21 9 Decor Skull
+21 10 Decor Skull
+21 11 Decor Skull
+
+15 5 Name Skull
+15 6 Operator Is
+15 7 Property Defeat
+
+18 9 Decor Flag

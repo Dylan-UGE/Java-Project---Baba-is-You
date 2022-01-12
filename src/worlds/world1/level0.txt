@@ -1,0 +1,79 @@
+33 18
+
+11 6 Name Baba
+12 6 Operator Is
+13 6 Property You
+
+19 6 Name Flag
+20 6 Operator Is
+21 6 Property Win
+
+11 8 Decor Wall
+12 8 Decor Wall
+13 8 Decor Wall
+14 8 Decor Wall
+15 8 Decor Wall
+16 8 Decor Wall
+17 8 Decor Wall
+18 8 Decor Wall
+19 8 Decor Wall
+20 8 Decor Wall
+21 8 Decor Wall
+
+11 9 Decor Tile
+12 9 Decor Tile
+13 9 Decor Tile
+14 9 Decor Tile
+15 9 Decor Tile
+17 9 Decor Tile
+18 9 Decor Tile
+19 9 Decor Tile
+20 9 Decor Tile
+21 9 Decor Tile
+
+11 10 Decor Tile
+13 10 Decor Tile
+14 10 Decor Tile
+15 10 Decor Tile
+17 10 Decor Tile
+18 10 Decor Tile
+19 10 Decor Tile
+21 10 Decor Tile
+
+11 11 Decor Tile
+12 11 Decor Tile
+13 11 Decor Tile
+14 11 Decor Tile
+15 11 Decor Tile
+17 11 Decor Tile
+18 11 Decor Tile
+19 11 Decor Tile
+20 11 Decor Tile
+21 11 Decor Tile
+
+12 10 Decor Baba
+20 10 Decor Flag
+
+16 9 Decor Rock
+16 10 Decor Rock
+16 11 Decor Rock
+
+11 12 Decor Wall
+12 12 Decor Wall
+13 12 Decor Wall
+14 12 Decor Wall
+15 12 Decor Wall
+16 12 Decor Wall
+17 12 Decor Wall
+18 12 Decor Wall
+19 12 Decor Wall
+20 12 Decor Wall
+21 12 Decor Wall
+
+11 14 Name Wall
+12 14 Operator Is
+13 14 Property Stop
+
+19 14 Name Rock
+20 14 Operator Is
+21 14 Property Push

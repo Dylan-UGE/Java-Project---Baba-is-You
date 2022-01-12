@@ -1,0 +1,109 @@
+24 18
+
+2 2 Decor Tile
+5 3 Decor Tile
+5 4 Decor Tile
+8 1 Decor Tile
+2 8 Decor Tile
+1 9 Decor Tile
+4 14 Decor Tile
+5 16 Decor Tile
+18 3 Decor Tile
+19 4 Decor Tile
+22 2 Decor Tile
+21 9 Decor Tile
+18 15 Decor Tile
+19 15 Decor Tile
+18 16 Decor Tile
+
+15 13 Decor Wall
+
+7 12 Name Wall
+7 13 Operator Is
+7 14 Property You
+
+12 12 Name Flag
+12 13 Operator Is
+12 14 Property Stop
+
+8 8 Name Baba
+12 4 Operator Is
+15 6 Property Win
+
+7 7 Decor Grass
+8 7 Decor Grass
+9 7 Decor Grass
+10 7 Decor Grass
+7 8 Decor Grass
+9 8 Decor Grass
+10 8 Decor Grass
+7 9 Decor Grass
+8 9 Decor Grass
+9 9 Decor Grass
+10 9 Decor Grass
+
+
+10 2 Decor Flag
+10 16 Decor Flag
+11 2 Decor Flag
+11 16 Decor Flag
+12 2 Decor Flag
+12 16 Decor Flag
+13 2 Decor Flag
+13 16 Decor Flag
+14 2 Decor Flag
+14 16 Decor Flag
+15 2 Decor Flag
+16 2 Decor Flag
+17 2 Decor Flag
+
+14 15 Decor Flag
+15 15 Decor Flag
+16 15 Decor Flag
+17 15 Decor Flag
+
+6 6 Decor Flag
+7 6 Decor Flag
+8 6 Decor Flag
+9 6 Decor Flag
+10 6 Decor Flag
+17 6 Decor Flag
+
+
+6 10 Decor Flag
+7 10 Decor Flag
+8 10 Decor Flag
+9 10 Decor Flag
+10 10 Decor Flag
+11 10 Decor Flag
+12 10 Decor Flag
+13 10 Decor Flag
+14 10 Decor Flag
+15 10 Decor Flag
+16 10 Decor Flag
+17 10 Decor Flag
+
+6 7 Decor Flag
+6 8 Decor Flag
+6 9 Decor Flag
+
+10 3 Decor Flag
+10 4 Decor Flag
+10 5 Decor Flag
+10 11 Decor Flag
+10 12 Decor Flag
+10 13 Decor Flag
+10 14 Decor Flag
+10 15 Decor Flag
+
+17 3 Decor Flag
+17 4 Decor Flag
+17 5 Decor Flag
+17 7 Decor Flag
+17 8 Decor Flag
+17 9 Decor Flag
+17 11 Decor Flag
+17 12 Decor Flag
+17 13 Decor Flag
+17 14 Decor Flag
+17 15 Decor Flag

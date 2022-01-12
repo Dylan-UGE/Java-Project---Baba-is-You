@@ -1,0 +1,226 @@
+33 18
+
+0 0 Name Wall
+1 0 Operator Is
+2 0 Property Stop
+
+8 3 Name Baba
+9 3 Operator Is
+10 3 Property You
+
+7 7 Name Rock
+7 8 Operator Is
+7 9 Property Push
+
+8 12 Name Baba
+9 12 Operator Is
+10 12 Property Melt
+
+8 14 Name Lava
+9 14 Operator Is
+10 14 Property Hot
+
+24 14 Name Flag
+25 14 Operator Is
+26 14 Property Win
+
+14 1 Decor Baba
+12 5 Decor Rock
+12 10 Name Lava
+
+26 12 Decor Flag
+
+3 0 Decor Lava
+4 0 Decor Lava
+0 1 Decor Lava
+1 1 Decor Lava
+2 1 Decor Lava
+3 1 Decor Lava
+0 2 Decor Lava
+1 2 Decor Lava
+0 3 Decor Lava
+
+6 0 Decor Wall
+6 1 Decor Wall
+6 2 Decor Wall
+6 3 Decor Wall
+6 4 Decor Wall
+6 5 Decor Wall
+6 6 Decor Wall
+6 7 Decor Wall
+
+7 4 Decor Wall
+7 6 Decor Wall
+
+8 6 Decor Wall
+8 7 Decor Wall
+9 6 Decor Wall
+10 6 Decor Wall
+11 4 Decor Wall
+11 6 Decor Wall
+
+12 0 Decor Wall
+12 2 Decor Wall
+12 3 Decor Wall
+12 4 Decor Wall
+12 6 Decor Wall
+
+13 3 Decor Wall
+14 3 Decor Wall
+15 3 Decor Wall
+
+16 0 Decor Wall
+16 1 Decor Wall
+16 2 Decor Wall
+16 3 Decor Wall
+
+7 12 Decor Wall
+7 13 Decor Wall
+7 14 Decor Wall
+7 15 Decor Wall
+
+8 13 Decor Wall
+8 15 Decor Wall
+9 13 Decor Wall
+9 15 Decor Wall
+10 13 Decor Wall
+10 15 Decor Wall
+
+11 12 Decor Wall
+11 13 Decor Wall
+11 14 Decor Wall
+11 15 Decor Wall
+
+11 17 Decor Lava
+12 16 Decor Lava
+12 17 Decor Lava
+13 15 Decor Lava
+13 16 Decor Lava
+13 17 Decor Lava
+
+14 13 Decor Lava
+14 14 Decor Lava
+14 15 Decor Lava
+14 16 Decor Lava
+14 17 Decor Lava
+
+15 11 Decor Lava
+15 12 Decor Lava
+15 13 Decor Lava
+15 14 Decor Lava
+15 15 Decor Lava
+15 16 Decor Lava
+15 17 Decor Lava
+
+16 9 Decor Lava
+16 10 Decor Lava
+16 11 Decor Lava
+16 12 Decor Lava
+16 13 Decor Lava
+16 14 Decor Lava
+16 15 Decor Lava
+16 16 Decor Lava
+16 17 Decor Lava
+
+17 6 Decor Lava
+17 7 Decor Lava
+17 8 Decor Lava
+17 9 Decor Lava
+17 10 Decor Lava
+17 11 Decor Lava
+17 12 Decor Lava
+17 13 Decor Lava
+17 14 Decor Lava
+17 15 Decor Lava
+17 16 Decor Lava
+17 17 Decor Lava
+
+18 3 Decor Lava
+18 4 Decor Lava
+18 5 Decor Lava
+18 6 Decor Lava
+18 7 Decor Lava
+18 8 Decor Lava
+18 9 Decor Lava
+18 10 Decor Lava
+18 11 Decor Lava
+18 12 Decor Lava
+18 13 Decor Lava
+18 14 Decor Lava
+18 15 Decor Lava
+
+19 1 Decor Lava
+19 2 Decor Lava
+19 3 Decor Lava
+19 4 Decor Lava
+19 5 Decor Lava
+19 6 Decor Lava
+19 7 Decor Lava
+19 8 Decor Lava
+19 9 Decor Lava
+19 10 Decor Lava
+19 11 Decor Lava
+19 12 Decor Lava
+18 13 Decor Lava
+
+20 0 Decor Lava
+20 1 Decor Lava
+20 2 Decor Lava
+20 3 Decor Lava
+20 4 Decor Lava
+20 5 Decor Lava
+20 6 Decor Lava
+20 7 Decor Lava
+20 8 Decor Lava
+20 9 Decor Lava
+20 10 Decor Lava
+20 11 Decor Lava
+20 12 Decor Lava
+
+21 0 Decor Lava
+21 1 Decor Lava
+21 2 Decor Lava
+21 3 Decor Lava
+21 4 Decor Lava
+21 5 Decor Lava
+21 6 Decor Lava
+21 7 Decor Lava
+21 8 Decor Lava
+21 9 Decor Lava
+21 10 Decor Lava
+
+22 0 Decor Lava
+22 1 Decor Lava
+22 2 Decor Lava
+22 3 Decor Lava
+22 4 Decor Lava
+22 5 Decor Lava
+22 6 Decor Lava
+22 7 Decor Lava
+22 8 Decor Lava
+22 9 Decor Lava
+
+23 0 Decor Lava
+23 1 Decor Lava
+23 2 Decor Lava
+23 3 Decor Lava
+23 4 Decor Lava
+23 5 Decor Lava
+23 6 Decor Lava
+
+24 0 Decor Lava
+24 1 Decor Lava
+24 2 Decor Lava
+24 3 Decor Lava
+
+25 0 Decor Lava
+25 1 Decor Lava
+
+26 0 Decor Lava
+
+32 15 Decor Lava
+32 16 Decor Lava
+32 17 Decor Lava
+31 16 Decor Lava
+31 17 Decor Lava
+30 17 Decor Lava

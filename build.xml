@@ -1,0 +1,32 @@
+<project name="Baba Is You">
+    <!-- Compile Java code from src -->
+    <target name="compile">
+        <javac includeantruntime="false" srcdir="src" destdir="classes" classpath="lib/zen5.jar"/>
+    	<echo message="Compilation : Done"/>
+    </target>
+    
+    <!-- Create the executable jar -->
+    <target name="jar" depends="compile">
+        <jar destfile="baba.jar"  basedir="classes">
+            <zipfileset includes="**/*.class" src="lib/zen5.jar"/>
+            <manifest>
+                <attribute name="Main-Class" value="fr.umlv.projet.main.Main"/>
+            </manifest>
+        </jar>
+    	<echo message="Jar File : Done"/>
+    </target>
+    
+    <!-- Generate the javadoc in docs/doc -->
+    <target name="javadoc">
+    	<mkdir dir="docs/doc"/>
+        <javadoc sourcepath="src" destdir="docs/doc" classpath="lib/zen5.jar"/>
+    	<echo message="Javadoc : Done"/>
+    </target>
+    
+    <!-- Delete -->
+    <target name="clean">
+        <delete dir="classes/fr"/>
+    	<delete dir="docs/doc"/>
+    	<echo message="Clean : Done"/>
+    </target>
+</project>
